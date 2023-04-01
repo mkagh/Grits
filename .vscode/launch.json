@@ -7,7 +7,7 @@
             "type": "al",
             "environmentType": "Sandbox",
             "environmentName": "milan",
-            "startupObjectId": 50104,
+            "startupObjectId": 50101,
             "startupObjectType": "Table",
             "breakOnError": "All",
             "launchBrowser": true,

@@ -11,9 +11,9 @@ table 50103 "Reservation Jnl. Line"
         field(11; "CourseNumber"; Integer)
         {
             DataClassification = CustomerContent;
-            Caption = 'Course Number';
+            Caption = 'CourseNumber';
             Editable = false;
-            trigger OnValidate()
+            trigger OnValidate()// pokusao sa get fj-om, ali vraca boolean
             var
                 GolfCourse: Record "Golf course";
             begin
@@ -25,6 +25,7 @@ table 50103 "Reservation Jnl. Line"
 
             end;
         }
+
         field(2; "CoursePrice"; Integer)
         {
             DataClassification = CustomerContent;
@@ -46,8 +47,8 @@ table 50103 "Reservation Jnl. Line"
         {
             DataClassification = CustomerContent;
             Caption = 'Member No.';
-            TableRelation =
-        if ("Reservation Type" = const(Member)) "Club Member";
+            /*            TableRelation =
+                   if ("Reservation Type" = const(Member)) "Club Member"; */
         }
         field(6; "Number of Players"; Integer)//2.zahtev(user da unese broj igraca)
         {
@@ -91,7 +92,7 @@ table 50103 "Reservation Jnl. Line"
         field(10; "CourseNo"; Decimal) //3.
         {
             DataClassification = CustomerContent;
-            Caption = 'Nevazece';
+            Caption = 'nevazece';
             Editable = false;
         }
         field(12; "Green fee"; /* Code[20] */Integer)

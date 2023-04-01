@@ -13,20 +13,52 @@ page 50101 "Golf Courses"
                 field(ID; Rec."ID")
                 {
                     ApplicationArea = All;
+
+
                 }
                 field(Name; Rec."Name")
                 {
                     ApplicationArea = All;
+
+
                 }
                 field(Address; Rec."Address")
                 {
                     ApplicationArea = All;
+
+
                 }
 
                 field(GreenFee; Rec."GreenFee")
                 {
                     ApplicationArea = All;
+
+
                 }
+                field("Num. of reservations"; Rec."Num. of reservations")
+                {
+                    ApplicationArea = All;
+
+                }
+                field("Tot amount"; Rec."Tot amount")
+                {
+                    ApplicationArea = All;
+
+
+                }
+                field("First date"; Rec."First date")
+                {
+                    ApplicationArea = All;
+
+
+
+                }
+                /*   field("Second date"; Rec."Second date")
+                  {
+                      ApplicationArea = All;
+
+
+                  } */
 
 
             }

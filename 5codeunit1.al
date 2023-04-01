@@ -23,7 +23,7 @@ codeunit 50101 "Res. Jnl. Line – Check Line"
 
 
 
-        MyTableRec.SETRANGE("CourseNumber", 1, 10);
+        MyTableRec.SETRANGE("CourseNumber", 1, 3);
 
         No := 0;
         REPEAT
@@ -32,13 +32,13 @@ codeunit 50101 "Res. Jnl. Line – Check Line"
             CourseNumber := MyTableRec."CourseNumber";
             if CourseNumber > 1 then begin
 
-                MESSAGE('Invalid ', No);
+                MESSAGE('Invalid ');
                 Valid := false;
 
             end
             else
                 if (CourseNumber < 1) then begin
-                    MESSAGE('Valid', No);
+                    MESSAGE('Valid');
                     Valid := true;
 
                 end;

@@ -18,12 +18,18 @@ page 50103 "Reservation Journal"
                     Editable = true;
 
                 }
-                field("CoursePrice"; Rec."CoursePrice")
+                field(CourseNumber; Rec."CourseNumber")
                 {
                     ApplicationArea = All;
                     Editable = true;
 
                 }
+                /*  field("CoursePrice"; Rec."CoursePrice")
+                 {
+                     ApplicationArea = All;
+                     Editable = true;
+
+                 } */
                 field(ReservationDate; Rec."Reservation Date")
                 {
                     ApplicationArea = All;
@@ -58,14 +64,14 @@ page 50103 "Reservation Journal"
                     Editable = true;
 
 
-                }
-                field("CourseNumber"; Rec."CourseNumber")
+                }/* 
+                field("CourseNo"; Rec."CourseNo")
                 {
                     ApplicationArea = All;
                     Editable = true;
 
 
-                }
+                } */
 
 
             }

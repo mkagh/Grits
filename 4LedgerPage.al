@@ -73,6 +73,13 @@ page 50104 "Reservation Ledger Entries"
 
 
                 }
+                field("CourseNo"; Rec."CourseNo")
+                {
+                    ApplicationArea = All;
+                    Editable = true;
+
+
+                }
             }
         }
     }

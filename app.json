@@ -26,7 +26,6 @@
     "includeSourceInSymbolFile": true
   },
   "runtime": "10.0",
-  "features": [
-    "NoImplicitWith"
-  ]
+
+  "features": [ "TranslationFile", "GenerateCaptions","GenerateLockedTranslations" ]
 }

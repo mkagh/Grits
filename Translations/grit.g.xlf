@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="grit">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2685416316 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Club Member</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Club Member - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2685416316 - Field 3168444338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Club Member - Field Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2685416316 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Club Member - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2685416316 - Field 1669322436 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MemberType</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Club Member - Field MemberType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2685416316 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Club Member - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2685416316 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Club Member - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 184881929 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Golf Course</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Golf Course - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 184881929 - Field 3168444338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Golf Course - Field Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 184881929 - Field 2210284121 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Golf Course - Field Currency Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 184881929 - Field 3863319098 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>First date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Golf Course - Field First date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 184881929 - Field 266109431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Green Fee</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Golf Course - Field GreenFee - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 184881929 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Golf Course - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 184881929 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Golf Course - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 184881929 - Field 3625359031 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ne vazi</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Golf Course - Field No. of reservations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 184881929 - Field 1275641998 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Num. of reservations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Golf Course - Field Num. of reservations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 184881929 - Field 2250318771 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ne vazi</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Golf Course - Field Number of reservations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 184881929 - Field 3424972216 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Second date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Golf Course - Field Second date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 184881929 - Field 3173919949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Golf Course - Field Tot amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 184881929 - Field 526580410 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ne vazi</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Golf Course - Field Total amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4273396996 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reservation Jnl. Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Jnl. Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4273396996 - Field 3121770491 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Actual Players</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Jnl. Line - Field Actual No. Players - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4273396996 - Field 2269624384 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>nevazece</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Jnl. Line - Field CourseNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4273396996 - Field 746421362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Course Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Jnl. Line - Field CourseNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4273396996 - Field 2455608468 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Course Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Jnl. Line - Field CoursePrice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4273396996 - Field 151290215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nevazece</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Jnl. Line - Field Green fee - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4273396996 - Field 1364069073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Member No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Jnl. Line - Field Member No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4273396996 - Field 2393413918 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of Players</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Jnl. Line - Field Number of Players - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4273396996 - Field 203059040 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reservation Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Jnl. Line - Field Reservation Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4273396996 - Field 2483227356 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reservation Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Jnl. Line - Field Reservation Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4273396996 - Field 2011001731 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reservation No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Jnl. Line - Field ReservationNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4273396996 - Field 3465379691 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tee Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Jnl. Line - Field Tee Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4273396996 - Field 971495953 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Fees</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Jnl. Line - Field Total Fees - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3448118923 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reservation Ledger Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Ledger Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3448118923 - Field 3121770491 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Actual Players</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Ledger Entry - Field Actual No. Players - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3448118923 - Field 2269624384 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CourseNo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Ledger Entry - Field CourseNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3448118923 - Field 746421362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CourseNumber</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Ledger Entry - Field CourseNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3448118923 - Field 2455608468 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Course </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Ledger Entry - Field CoursePrice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3448118923 - Field 1364069073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Member No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Ledger Entry - Field Member No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3448118923 - Field 2393413918 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of Players</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Ledger Entry - Field Number of Players - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3448118923 - Field 203059040 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reservation Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Ledger Entry - Field Reservation Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3448118923 - Field 2483227356 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reservation Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Ledger Entry - Field Reservation Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3448118923 - Field 2011001731 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reservation No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Ledger Entry - Field ReservationNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3448118923 - Field 3465379691 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tee Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Ledger Entry - Field Tee Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3448118923 - Field 971495953 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Fees</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reservation Ledger Entry - Field Total Fees - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4201775713 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reward</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reward - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4201775713 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reward - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4201775713 - Field 4075675287 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount Percentage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reward - Field Discount Percentage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4201775713 - Field 1157966702 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reward ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Reward - Field Reward ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3642072253 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Club Members</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Club Members - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3642072253 - Control 3168444338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Member Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Club Members - Control Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3642072253 - Control 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Member ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Club Members - Control ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3642072253 - Control 1669322436 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Member Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Club Members - Control MemberType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3642072253 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Member Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Club Members - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3642072253 - Control 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Club Members - Control Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 223258272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Golf Courses</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Golf Courses - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 223258272 - Action 2242316267 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CallPage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Golf Courses - Action CallPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1965354467 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reservation Journal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Reservation Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1965354467 - Action 2420770598 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Res. Jnl. Line – Check Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Reservation Journal - Action codeunit1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1965354467 - Action 507680747 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Res. Jnl. Line – Check Post</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Reservation Journal - Action codeunit2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1965354467 - Action 1145377364 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Res. Jnl. Line – Check BAtch</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Reservation Journal - Action codeunit3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3546829345 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reservation Ledger Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Reservation Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3546829345 - Action 1692444235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ActionName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Reservation Ledger Entries - Action ActionName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 338024269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reward Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Reward Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2465587863 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reward List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Reward List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2465587863 - Control 1157966702 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the level of reward that the customer has at this point.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Reward List - Control Reward ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Enum 1285715004 - EnumValue 481239825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Corpotarte</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Club Member Type - EnumValue Corpotarte - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1285715004 - EnumValue 13658230 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Familly</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Club Member Type - EnumValue Familly - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1285715004 - EnumValue 580429820 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gold</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Club Member Type - EnumValue Gold - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 718832824 - EnumValue 1090351696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Aktivan</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Member Status - EnumValue Active - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 718832824 - EnumValue 525852245 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nektivan</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Member Status - EnumValue Inactive - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -11,7 +11,7 @@ table 50104 "Reservation Ledger Entry"
         field(2; "CoursePrice"; /* Code[20] */Integer)
         {
             DataClassification = CustomerContent;
-            Caption = 'Course';
+            Caption = 'Course ';
         }
         field(3; "Reservation Date"; Date)
         {
@@ -51,6 +51,19 @@ table 50104 "Reservation Ledger Entry"
             DataClassification = CustomerContent;
             Caption = 'Actual Players';
 
+
+        }
+        field(10; "CourseNo"; Code[10]) //3.
+        {
+            DataClassification = CustomerContent;
+            Caption = 'CourseNo';
+            Editable = false;
+        }
+        field(11; "CourseNumber"; Integer) //3.
+        {
+            DataClassification = CustomerContent;
+            Caption = 'CourseNumber';
+            Editable = false;
 
         }
     }
