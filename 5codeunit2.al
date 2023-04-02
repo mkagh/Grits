@@ -26,6 +26,7 @@ codeunit 50102 "Res. Jnl. Line – Post Line"
                 MyTable2Rec."Tee Time" := MyTable1Rec."Tee Time";
                 MyTable2Rec."Total Fees" := MyTable1Rec."Total Fees";
                 MyTable2Rec."CourseNumber" := MyTable1Rec."CourseNumber";
+                MyTable2Rec."Member Number" := MyTable1Rec."Member Number";
 
                 MyTable2Rec.INSERT;
             UNTIL MyTable1Rec.NEXT = 0;

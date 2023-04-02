@@ -38,6 +38,16 @@ page 50102 "Club Members"
                     ApplicationArea = All;
                     Caption = 'Status';
                 }
+                field("Num. of reservations"; Rec."Num. of reservations")
+                {
+                    ApplicationArea = All;
+                    Caption = 'Num. of reservations';
+                }
+                field("Tot amount"; Rec."Tot amount")
+                {
+                    ApplicationArea = All;
+                    Caption = 'Tot amount';
+                }
             }
         }
     }

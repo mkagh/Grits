@@ -27,39 +27,43 @@ table 50104 "Reservation Ledger Entry"
         {
             DataClassification = CustomerContent;
             Caption = 'Member No.';
-            /* TableRelation = "Club Member"; */
         }
-        field(6; "Number of Players"; Integer)
+        field(6; "Member Number"; Integer)
+        {
+            DataClassification = CustomerContent;
+            Caption = 'Member Number';
+        }
+        field(7; "Number of Players"; Integer)
         {
             DataClassification = CustomerContent;
             Caption = 'Number of Players';
 
         }
-        field(7; "Tee Time"; Time)
+        field(8; "Tee Time"; Time)
         {
             DataClassification = CustomerContent;
             Caption = 'Tee Time';
         }
-        field(8; "Total Fees"; Decimal)
+        field(9; "Total Fees"; Decimal)
         {
             DataClassification = CustomerContent;
             Caption = 'Total Fees';
             Editable = false;
         }
-        field(9; "Actual No. Players"; Integer)
+        field(10; "Actual No. Players"; Integer)
         {
             DataClassification = CustomerContent;
             Caption = 'Actual Players';
 
 
         }
-        field(10; "CourseNo"; Code[10]) //3.
+        field(11; "CourseNo"; Code[10]) //3.
         {
             DataClassification = CustomerContent;
-            Caption = 'CourseNo';
+            Caption = 'nevazece';
             Editable = false;
         }
-        field(11; "CourseNumber"; Integer) //3.
+        field(12; "CourseNumber"; Integer) //3.
         {
             DataClassification = CustomerContent;
             Caption = 'CourseNumber';

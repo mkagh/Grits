@@ -14,13 +14,10 @@ page 50101 "Golf Courses"
                 {
                     ApplicationArea = All;
 
-
                 }
                 field(Name; Rec."Name")
                 {
                     ApplicationArea = All;
-
-
                 }
                 field(Address; Rec."Address")
                 {
@@ -50,15 +47,13 @@ page 50101 "Golf Courses"
                 {
                     ApplicationArea = All;
 
+                }
 
+                field(CopyID; Rec."CopyID")
+                {
+                    ApplicationArea = All;
 
                 }
-                /*   field("Second date"; Rec."Second date")
-                  {
-                      ApplicationArea = All;
-
-
-                  } */
 
 
             }
@@ -69,7 +64,7 @@ page 50101 "Golf Courses"
     {
         area(Navigation)
         {
-            action(CallPage)
+            action(CallPageRLE)
             {
 
                 ApplicationArea = All;

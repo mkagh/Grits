@@ -14,34 +14,30 @@ codeunit 50101 "Res. Jnl. Line – Check Line"
         CourseNumber: Integer;
         "Reservation Date": Date;
         MyTableRec: Record "Reservation Jnl. Line";
-        No: Integer;
+        Number: Integer;
     begin
         /*    MyTableRec.SETRANGE("Reservation Date", '>0D'); 
           ne prihvata datume
           */
-
-
-
-
         MyTableRec.SETRANGE("CourseNumber", 1, 3);
 
-        No := 0;
+        Number := 0;
         REPEAT
-            No += 1;
+            Number += 1;
             Valid := true;
             CourseNumber := MyTableRec."CourseNumber";
             if CourseNumber > 1 then begin
 
-                MESSAGE('Invalid ');
-                Valid := false;
+                MESSAGE('Valid ');
+                Valid := true;
 
             end
-            else
-                if (CourseNumber < 1) then begin
-                    MESSAGE('Valid');
-                    Valid := true;
+        /*      else
+                 if (CourseNumber < 1) then begin
+                     MESSAGE('Invalid');
+                     Valid := false;
 
-                end;
+                 end; */
         UNTIL MyTableRec.NEXT = 0;
     end;
 }

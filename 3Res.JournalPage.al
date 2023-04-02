@@ -64,14 +64,14 @@ page 50103 "Reservation Journal"
                     Editable = true;
 
 
-                }/* 
-                field("CourseNo"; Rec."CourseNo")
+                }
+                field("Member Number"; Rec."Member Number")
                 {
                     ApplicationArea = All;
                     Editable = true;
 
 
-                } */
+                }
 
 
             }

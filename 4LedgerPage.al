@@ -17,13 +17,13 @@ page 50104 "Reservation Ledger Entries"
                     Editable = true;
 
                 }
-                field(CoursePrice; Rec."CoursePrice")
-                {
-                    ApplicationArea = All;
-                    Editable = true;
+                /*      field(CoursePrice; Rec."CoursePrice")
+                     {
+                         ApplicationArea = All;
+                         Editable = true;
 
 
-                }
+                     } */
                 field("Reservation Date"; Rec."Reservation Date")
                 {
                     ApplicationArea = All;
@@ -38,13 +38,13 @@ page 50104 "Reservation Ledger Entries"
 
 
                 }
-                field("Member No."; Rec."Member No.")
-                {
-                    ApplicationArea = All;
-                    Editable = true;
+                /*     field("Member No."; Rec."Member No.")
+                    {
+                        ApplicationArea = All;
+                        Editable = true;
 
 
-                }
+                    } */
                 field("Number of Players"; Rec."Number of Players")
                 {
                     ApplicationArea = All;
@@ -73,7 +73,14 @@ page 50104 "Reservation Ledger Entries"
 
 
                 }
-                field("CourseNo"; Rec."CourseNo")
+                field("CourseNumber"; Rec."CourseNumber")
+                {
+                    ApplicationArea = All;
+                    Editable = true;
+
+
+                }
+                field("Member Number"; Rec."Member Number")
                 {
                     ApplicationArea = All;
                     Editable = true;

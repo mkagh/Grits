@@ -30,6 +30,25 @@ table 50102 "Club Member"
             DataClassification = CustomerContent;
 
         }
+        field(8; "Num. of reservations"; Integer)
+        {
+            Caption = 'Num. of reservations';
+            FieldClass = FlowField;
+            CalcFormula = count("Reservation Ledger Entry"
+               WHERE("Member Number" = Field(ID)
+               ))
+            ;
+        }
+        field(9; "Tot amount"; Decimal)
+        {
+            Caption = 'Total amount';
+            FieldClass = FlowField;
+            CalcFormula = Sum("Reservation Ledger Entry"."Total Fees"
+             WHERE("Member Number" = Field(ID)
+
+             ));
+
+        }
     }
 
     keys
