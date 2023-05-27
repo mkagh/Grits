@@ -10,54 +10,35 @@ table 50101 "Golf Course"
             Caption = 'ID';
         }
 
-        field(2; CopyID; Integer)
-        {
-            DataClassification = CustomerContent;
-            Caption = 'CopyID';
-        }
-        field(3; Name; Text[50])
+     
+        field(2; Name; Text[50])
         {
             DataClassification = CustomerContent;
             Caption = 'Name';
         }
-        field(4; Address; Text[250])
+        field(3; Address; Text[250])
         {
             DataClassification = CustomerContent;
             Caption = 'Address';
         }
-        field(5; GreenFee; Decimal)
+        field(4; GreenFee; Decimal)
         {
             DataClassification = CustomerContent;
             Caption = 'Green Fee';
         }
-        field(6; "No. of reservations"; Decimal)
-        {
-            Caption = 'nevazece';
-
-        }
-        field(7; "Total amount"; Decimal)
-        {
-            Caption = 'nevazece';
-
-        }
-        field(8; "Number of reservations"; Decimal)
-        {
-            Caption = 'nevazece';
-
-        }
-        field(9; "Num. of reservations"; Integer)
+ 
+        field(5; "Num. of reservations"; Integer)
         {
             Caption = 'Num. of reservations';
             FieldClass = FlowField;
             CalcFormula = count("Reservation Ledger Entry"
                WHERE(CourseNumber = Field(CopyID),
                "Reservation Date" = Field("First date")
-               //jedini nacin na koji sam uspeo da primenim filter,ali ne radi
-               // isto vazi i za club member tabelu
+               
                ))
             ;
         }
-        field(10; "Tot amount"; Decimal)
+        field(6; "Tot amount"; Decimal)
         {
             Caption = 'Total amount';
             FieldClass = FlowField;
@@ -68,18 +49,18 @@ table 50101 "Golf Course"
              ));
 
         }
-        field(11; "First date"; Date)
+        field(7; "First date"; Date)
         {
             Caption = 'Filter date';
             FieldClass = FlowFilter;
         }
 
-        field(12; "Second date"; Date)
+        field(8; "Second date"; Date)
         {
             FieldClass = FlowFilter;
         }
 
-        field(13; "Currency Filter"; Code[10])
+        field(9; "Currency Filter"; Code[10])
         {
             FieldClass = FlowFilter;
         }

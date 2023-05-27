@@ -2,7 +2,7 @@ enum 50101 "Club Member Type"
 {
     Extensible = true;
 
-    value(0; None) { }
+    value(0; None) {}
     value(1; Corpotarte)
     {
         Caption = 'Corpotarte';

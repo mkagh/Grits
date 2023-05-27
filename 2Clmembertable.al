@@ -9,12 +9,12 @@ table 50102 "Club Member"
             DataClassification = CustomerContent;
 
         }
-        field(2; Name; Integer) //trebalo je text
+        field(2; Name; Text[50]) 
         {
             DataClassification = CustomerContent;
 
         }
-        field(3; Address; Integer)//trebalo je text
+        field(3; Address; Text[50])
         {
             DataClassification = CustomerContent;
 
@@ -30,7 +30,7 @@ table 50102 "Club Member"
             DataClassification = CustomerContent;
 
         }
-        field(8; "Num. of reservations"; Integer)
+        field(6; "Num. of reservations"; Integer)
         {
             Caption = 'Num. of reservations';
             FieldClass = FlowField;
@@ -39,7 +39,7 @@ table 50102 "Club Member"
                ))
             ;
         }
-        field(9; "Tot amount"; Decimal)
+        field(7; "Tot amount"; Decimal)
         {
             Caption = 'Total amount';
             FieldClass = FlowField;

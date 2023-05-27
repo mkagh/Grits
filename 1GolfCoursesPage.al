@@ -18,6 +18,7 @@ page 50101 "Golf Courses"
                 field(Name; Rec."Name")
                 {
                     ApplicationArea = All;
+               
                 }
                 field(Address; Rec."Address")
                 {

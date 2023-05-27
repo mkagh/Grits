@@ -13,8 +13,7 @@ table 50103 "Reservation Jnl. Line"
             DataClassification = CustomerContent;
             Caption = 'CourseNumber';
             Editable = false;
-            trigger OnValidate()// pokusao sa get fj-om, ali vraca boolean,
-            //pa sam uradio u hard coding maniru
+            trigger OnValidate()
             var
                 GolfCourse: Record "Golf course";
             begin
@@ -40,15 +39,14 @@ table 50103 "Reservation Jnl. Line"
             Caption = 'Reservation Date';
         }
         field(5; "Reservation Type"; Enum "Reservation Type")
-        //U DOKUMENTACIJI NISAM PRONASAO NACIN DA URADIM TABLE RELATION,
-        //IAKO SAM PRIMETIO DA SINTAKSA PODSECA NA FLOW FIELDS
+       
         {
             DataClassification = CustomerContent;
             Caption = 'Reservation Type';
 
 
             trigger OnValidate()
-            //zahtev: Remember that a  reservation type can be changed from one type to another. */
+          
             begin
 
                 if "Reservation Type" = "Reservation Type"::Public then
@@ -59,13 +57,8 @@ table 50103 "Reservation Jnl. Line"
 
             end;
         }
-        field(6; "Member No."; Code[20])
-        {
-            DataClassification = CustomerContent;
-            Caption = 'Nevazece';
-
-        }
-        field(7; "Number of Players"; Integer)
+    
+        field(6; "Number of Players"; Integer)
         {
             DataClassification = CustomerContent;
             Caption = 'Number of Players';
@@ -74,18 +67,18 @@ table 50103 "Reservation Jnl. Line"
                 "Total Fees" := "Number of Players" * CoursePrice;
             end;
         }
-        field(8; "Tee Time"; Time)
+        field(7; "Tee Time"; Time)
         {
             DataClassification = CustomerContent;
             Caption = 'Tee Time';
         }
-        field(9; "Total Fees"; Decimal)
+        field(8; "Total Fees"; Decimal)
         {
             DataClassification = CustomerContent;
             Caption = 'Total Fees';
             Editable = false;
         }
-        field(10; "Actual No. Players"; Integer)
+        field(9; "Actual No. Players"; Integer)
         {
             DataClassification = CustomerContent;
             Caption = 'Actual Players';
@@ -103,20 +96,8 @@ table 50103 "Reservation Jnl. Line"
 
 
         }
-        field(11; "CourseNo"; Decimal)
-        {
-            DataClassification = CustomerContent;
-            Caption = 'nevazece';
-            Editable = false;
-        }
-        field(12; "Green fee"; /* Code[20] */Integer)
-
-        {
-            DataClassification = CustomerContent;
-            Caption = 'Nevazece';
-
-        }
-        field(13; "Member number"; /* Code[20] */Integer)
+  
+        field(10; "Member number"; Integer)
 
         {
             DataClassification = CustomerContent;

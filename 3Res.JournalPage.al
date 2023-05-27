@@ -24,12 +24,7 @@ page 50103 "Reservation Journal"
                     Editable = true;
 
                 }
-                /*  field("CoursePrice"; Rec."CoursePrice")
-                 {
-                     ApplicationArea = All;
-                     Editable = true;
-
-                 } */
+           
                 field(ReservationDate; Rec."Reservation Date")
                 {
                     ApplicationArea = All;
@@ -109,7 +104,7 @@ page 50103 "Reservation Journal"
             }
             action(codeunit3)
             {
-                Caption = 'Res. Jnl. Line – Check BAtch';
+                Caption = 'Res. Jnl. Line – Check Batch';
                 ApplicationArea = All;
                 trigger OnAction()
                 var
